@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-swiper",
+  "downloads": null,
+  "version": "4.4.2",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+  
+  "licenses":  "[\"MIT\"]",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://www.idangero.us/swiper",
+  "gem_uri": null,
+  "homepage_uri": "http://www.idangero.us/swiper",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://www.idangero.us/swiper",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
